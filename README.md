@@ -5,7 +5,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankurkr07&label=Profile%20views&color=0e75b6&style=flat" alt="ankurkr07" /> </p>
-- 🌱 I’m currently learning **AI/ML**
+<p>- 🌱 I’m currently learning AI/ML</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ankur__kr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankur__kr" height="30" width="40" /></a>
