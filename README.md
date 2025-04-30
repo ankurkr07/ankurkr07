@@ -5,8 +5,8 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankurkr07&label=Profile%20views&color=0e75b6&style=flat" alt="ankurkr07" /> </p>
-<p>- 🌱 I’m currently learning AI/ML</p>
-<h3 align="left">Connect with me:</h3>
+<p>- 🌱 I’m currently working on AI Agents & Gen AI.</p>
+<h3 align="left">If you would like to collaborate, connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ankur__kr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankur__kr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ankur-kumar-391001257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankur-kumar-391001257" height="30" width="40" /></a>
